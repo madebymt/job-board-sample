@@ -2,7 +2,7 @@
   padding: 5rem;
   display: flex;
   justify-content: right;
-  background: #DCE8DF;
+  background: #C7CCDB;
   width: 100%;
 }
 
@@ -10,7 +10,7 @@
   padding: 5rem;
   display: flex;
   justify-content: right;
-  background: #DCE8DF;
+  background: #C7CCDB;
 }
 
 .sample {
@@ -62,4 +62,18 @@ h4 {
 a {
   color: grey;
   font-weight: 500;
+}
+
+.list-group-item {
+  color: grey;
+}
+
+.btn {
+  background: red;
+  border: none;
+  width: 20%;
+}
+
+.job-application {
+  display: none;
 }
